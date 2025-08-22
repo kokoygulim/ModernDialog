@@ -3,9 +3,9 @@
   "show_after": "2035-08-20",
   "force_update": false,
   "title": "Update Available",
-  "message": "A new version is ready. Please update to a better version. join my channel",
-  "link_text": "See details",
-  "link_url": "https://t.me/android_modding_tools",
+  "message": "A new mod that can be used offline is available. Update your app now.",
+  "link_text": "",
+  "link_url": "",
   "buttons": [
     {
       "text": "Update Now",
