@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "show_after": "2035-08-20",
+  "show_after": "2025-08-20",
   "force_update": false,
   "title": "Update Available",
   "message": "A new mod that can be used offline is available. Update your app now.",
@@ -10,7 +10,7 @@
     {
       "text": "Update Now",
       "action": "url",
-      "target": "https://t.me/androidmod_ar",
+      "target": "https://t.me/RangkayanMods/105",
       "style": "primary"
     },
     {
